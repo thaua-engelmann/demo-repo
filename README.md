@@ -6,5 +6,6 @@ Some new description here...
 
 I'm watching freeCodeCamp course!
 
-## Local Development
-1. Open index.html in your browser.
+# Local Development
+
+1. Open the index.html file in your browser.
